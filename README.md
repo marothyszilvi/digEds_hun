@@ -1,5 +1,6 @@
 # digEds_hun
 Tudományos elektronikus szövegkiadások bibliográfiája
+
 Bibliography of Hungarian Digital Scholarly Editions
 
 Jelen bibliográfia részint a Greta Franzini főszerkesztette <i>Catalogue of Digital Editions</i> által követett leírást tartalmazza a magyar anyagra nézve a kezdetektől napjainkig (CSV), részint annak citációs szoftver-kompatibilis verzióját, pontosított bibliográfiai adatokkal (RIS és BibTeX).
